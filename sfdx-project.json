@@ -2,11 +2,11 @@
     "packageDirectories": [
         {
             "path": "force-app",
-            "default": true
+            "default": false
         },
         {
             "path": "sfdx-source/unpackaged",
-            "default": false
+            "default": true
         },
         {
             "path": "sfdx-source/packaged",
