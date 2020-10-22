@@ -1,6 +1,5 @@
 
-
-<a target="_blank" rel="noopener noreferrer" href="https://githubsfdeploy.herokuapp.com/app/githubdeploy/bbellanc/partner-billing"><img src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png" alt="Button" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png"><img src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png" alt="Button" style="max-width:100%;"></a>
 
 # Introduction
 This app implements basic billing functionality for freelancers and small consultancies.
