@@ -1,6 +1,8 @@
-<a href="https://githubsfdeploy.herokuapp.com?owner=bellanc&amp;repo=partner-billing">
-  <img src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png" alt="Deploy to Salesforce" />
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
+
 
 # Introduction
 This app implements basic billing functionality for freelancers and small consultancies.
