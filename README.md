@@ -1,3 +1,6 @@
+https://githubsfdeploy.herokuapp.com/app/githubdeploy/bbellanc/partner-billing
+
+
 # Introduction
 This app implements basic billing functionality for freelancers and small consultancies.
 The app is created and developed based on my personal needs as an independent salesforce consulting and implementation partner.
